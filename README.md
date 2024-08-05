@@ -31,3 +31,18 @@ The E-Commerce Website is designed to provide a seamless shopping experience wit
 
 - Node.js and npm installed.
 - MongoDB server running locally or a cloud MongoDB service.
+
+## Installation
+
+Follow these steps to clone and set up the project locally.
+
+### Clone the Repository
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+
+```bash
+git clone https://github.com/teja-86/E-Commerce.git
+
+cd E-Commerce and Start working on it.........
